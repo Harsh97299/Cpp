@@ -1,0 +1,1 @@
+It gave a fatal error because <iostrean.h> doesn't exists in c++ and it is the job of preprocessor to check that wether the header file exists c++ or not.
