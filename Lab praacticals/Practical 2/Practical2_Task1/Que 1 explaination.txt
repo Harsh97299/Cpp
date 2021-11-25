@@ -1,1 +1,0 @@
-preprocessor didn't gave any error because it is not the job of preprocessor to check wether any function used in code is available in code.
